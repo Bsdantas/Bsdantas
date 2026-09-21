@@ -11,9 +11,9 @@ Desenvolvedor de Software com atuacao no segmento de Engenharia de Software. Tra
 
 ## Projetos em destaque
 
-- [Capao News](https://github.com/Bsdantas/site-capao-news) - tema WordPress para portal de noticias.
-- [Looppeer](https://github.com/Bsdantas/looppeer-extension-project) - website de projeto de extensao desenvolvido com TypeScript.
-- [Noise Watcher](https://github.com/Bsdantas/noise-watcher-app) - aplicacao para monitoramento de ruido.
+- [Capao News](https://github.com/Bsdantas/capao-news-wordpress-theme) - tema WordPress para portal de noticias.
+- [Looppeer](https://github.com/Bsdantas/looppeer-website) - website de projeto de extensao desenvolvido com TypeScript.
+- [Noise Watcher](https://github.com/Bsdantas/noise-watcher) - aplicacao para monitoramento de ruido.
 - [Portfolio](https://github.com/Bsdantas/portfolio) - portfolio pessoal desenvolvido com TypeScript.
 
 ## GitHub Achievements
