@@ -52,5 +52,3 @@
 </p>
 
 <a href="https://github.com/bsdantas">GitHub</a>
-
-<p align="center"><sub>Bruno Dantas · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
