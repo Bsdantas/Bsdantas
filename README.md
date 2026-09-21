@@ -1,6 +1,6 @@
 # Bruno Dantas
 
-Desenvolvedor de Software com experiência no segmento de Engenharia de Software. Atuo com desenvolvimento Full Stack, contribuindo para projetos web e aplicações voltadas a necessidades reais.
+Desenvolvedor de Software com atuacao no segmento de Engenharia de Software. Trabalho com desenvolvimento Full Stack, contribuindo para projetos web e aplicacoes voltadas a necessidades reais.
 
 ## Tecnologias
 
@@ -11,12 +11,12 @@ Desenvolvedor de Software com experiência no segmento de Engenharia de Software
 
 ## Projetos em destaque
 
-- [Capão News](https://github.com/Bsdantas/capao-news-wordpress-theme) — tema WordPress para um portal de notícias.
-- [Looppeer](https://github.com/Bsdantas/looppeer-website) — site de um projeto de extensão desenvolvido com TypeScript.
-- [Noise Watcher](https://github.com/Bsdantas/noise-watcher) — aplicação para monitoramento de ruído.
-- [Portfólio](https://github.com/Bsdantas/portfolio) — portfólio pessoal desenvolvido com TypeScript.
+- [Capao News](https://github.com/Bsdantas/capao-news-wordpress-theme) - tema WordPress para portal de noticias.
+- [Looppeer](https://github.com/Bsdantas/looppeer-website) - website de projeto de extensao desenvolvido com TypeScript.
+- [Noise Watcher](https://github.com/Bsdantas/noise-watcher) - aplicacao para monitoramento de ruido.
+- [Portfolio](https://github.com/Bsdantas/portfolio) - portfolio pessoal desenvolvido com TypeScript.
 
-## Conquistas no GitHub
+## GitHub Achievements
 
 - Pull Shark
 - YOLO
